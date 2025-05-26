@@ -9,6 +9,9 @@ const config: Config = {
         inter: ["var(--font-inter)", "sans-serif"],
         plex: ["var(--font-plex-sans)", "sans-serif"],
       },
+      boxShadow: {
+        glow: "0 0 12px #64FFDA",
+      },
     },
   },
   plugins: [],
